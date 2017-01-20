@@ -2,4 +2,4 @@
 Collection of various scripts for doing things on my Raspberry Pi's
 
 # note
-All scripts use common_function.sh
+All scripts under the /bash folder use common_function.sh
